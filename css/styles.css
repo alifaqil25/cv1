@@ -1,0 +1,81 @@
+body
+{
+  margin: 0px;
+}
+hr
+{
+  margin: 0px;
+}
+.intro
+{
+  background-color:#F3F1F5;
+  height: 25rem;
+}
+.intro img{
+  width: 12rem;
+  height:12rem;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+h1
+{
+  text-align: center;
+  margin: 10px auto 10px auto;
+  /* font-family: 'Cookie', cursive; */
+  font-family: 'Passions Conflict', cursive;
+  font-weight: lighter;
+  font-size: 3.75rem;
+}
+h3
+{
+  text-align: center;
+  font-family: 'Trebuchet MS';
+  font-size: 1.4rem;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+p
+{
+  line-height: 0.6;
+  text-align: center;
+  font-size: 1.05rem;
+  font-family: 'verdana';
+}
+.description
+{
+  margin-top : 0;
+  margin-bottom: 0;
+  height: 150px;
+  background-color:#F3F1F5;
+}
+
+.Skills
+{
+  background-color:#F3F1F5;
+  text-align: center;
+}
+.Skills table
+{
+ padding-bottom: 20px;
+ margin: 0 auto;
+}
+td
+{
+  padding-left: 1px;
+  padding-right: 150px;
+  text-align: center;
+}
+.contact-me
+{
+  text-align: center;
+  background-color:#F3F1F5;
+}
+.contact-me img{
+  height:30px;
+  width:30px;
+  display: inline-block; 
+  margin: 25px auto;
+}
